@@ -1,4 +1,4 @@
-package com.lt;
+package com.lt.bytebuffer;
 
 import java.nio.ByteBuffer;
 

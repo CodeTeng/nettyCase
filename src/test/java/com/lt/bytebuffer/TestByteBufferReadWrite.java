@@ -1,8 +1,8 @@
-package com.lt;
+package com.lt.bytebuffer;
 
 import java.nio.ByteBuffer;
 
-import static com.lt.ByteBufferUtil.debugAll;
+import static com.lt.bytebuffer.ByteBufferUtil.debugAll;
 
 /**
  * @description:
